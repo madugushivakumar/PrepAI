@@ -1,6 +1,6 @@
 ---
 
-##  PrepAI
+## PrepAI
 
 **PrepAI** is an AI-powered interview preparation web application designed to help users practice and improve their interview skills using  mock interview simulations and instant feedback. It integrates AI to simulate realistic interview experience, making the preparation process smarter, personalized, and effective. ([GitHub][1])
 
